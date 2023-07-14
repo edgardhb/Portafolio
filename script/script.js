@@ -27,11 +27,7 @@ const closeNavbar = () => {
   }
 };
 
-// Toggle navbar collapse on hamburger icon click
-navbarToggler.addEventListener("click", function(event) {
-    event.preventDefault();
-    navbarCollapse.classList.toggle("show");
-  });
+
   
 
 // Close navbar when clicking anywhere else on the page

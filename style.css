@@ -78,10 +78,19 @@
     padding-top: auto;
   }  
 
-  .image_about {
+.image_about {
     max-width: 100%;
     height: auto;
     width: 60%;
     object-fit: contain;
   }
-  
+
+.carousel-caption{
+    text-shadow: #000000 2px 2px 2px;
+  }
+
+.carousel {
+    width: 65%;
+    height: auto;
+    margin: auto;
+  }
